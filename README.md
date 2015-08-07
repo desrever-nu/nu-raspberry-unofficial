@@ -1,7 +1,7 @@
 # nu-raspberry-unofficial
 Builds of Nu for raspberry pi .
 
-**This builds are unoficcial, privately maintaned, and unlike clients distributed via nubits.com did not undergo a proper testing process. Use it at your own risk**
+**This builds are unofficial, privately maintaned and - unlike clients distributed via nubits.com - these builds did not undergo a proper testing process. Use it at your own risk**
 
 ##Get the latest binaries
 
