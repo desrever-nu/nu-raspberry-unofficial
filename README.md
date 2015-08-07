@@ -1,25 +1,24 @@
 # nu-raspberry-unofficial
 Builds of Nu for raspberry pi .
 
-**This builds are unoficcial, privately maintaned, and unlike clients distributed via nubits.com did not undergo a proper testing process.**
-
+**This builds are unoficcial, privately maintaned, and unlike clients distributed via nubits.com did not undergo a proper testing process. Use it at your own risk**
 
 ##Get the latest binaries
 
 To download the latest binaries of nud 
 
-- `$ sudo wget `
+- `$ sudo wget https://github.com/desrever-nu/nu-raspberry-unofficial/raw/master/latest/nud `
 - `$ sudo mv nud /usr/bin/nud && sudo chmod a+x /usr/bin/nud` #move nud and make it executable
 
 ##Get old binaries
 
+Browse the [~/old](https://github.com/desrever-nu/nu-raspberry-unofficial/tree/master/old) directory. 
 
-[This tutorial](https://docs.nubits.com/nu-raspberry-minting/)  how to build from source. 
 
-
+## Configure the Raspberry Pi for minting
+[This tutorial](https://docs.nubits.com/nu-raspberry-minting/) will teach you how to configure your raspberry for minting, and  how to build from source. 
 
 # Use at own risk
-
 
 By using this build you declare to have accepted the terms of use.
 
